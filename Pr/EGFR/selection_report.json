@@ -1,0 +1,312 @@
+{
+  "candidates": [
+    {
+      "metrics": {
+        "J_selected": 0.22974024713039398,
+        "between_angles_c_n_ca_loss_mean_selected": 7.440883200615644e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00015992167755030096,
+        "between_bonds_c_n_loss_mean_selected": 0.0009973873384296894,
+        "between_clashes_mean_loss_selected": 2.612376093225066e-08,
+        "mean_plddt_selected_100": 77.04071807861328,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7704071998596191,
+        "seed": 0,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0014744438230991364,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.05785123258829117,
+        "violations_between_residue_clash_selected": 0.009917354211211205,
+        "violations_within_residue_selected": 0.0008264462230727077
+      },
+      "model": "predictions",
+      "openness": 24.914171646728384,
+      "pdb": "/content/protein_predictions/inference/seed_000/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 0
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2344091534614563,
+        "between_angles_c_n_ca_loss_mean_selected": 7.956426270538941e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 5.646577483275905e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.00048186740605160594,
+        "between_clashes_mean_loss_selected": 1.1770831065405218e-07,
+        "mean_plddt_selected_100": 76.57620239257812,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7657620310783386,
+        "seed": 1,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0017119140829890966,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.042148757725954056,
+        "violations_between_residue_clash_selected": 0.012396693229675293,
+        "violations_within_residue_selected": 0.0016528924461454153
+      },
+      "model": "predictions",
+      "openness": 24.862176090485832,
+      "pdb": "/content/protein_predictions/inference/seed_001/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 1
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23463700711727142,
+        "between_angles_c_n_ca_loss_mean_selected": 5.227820292930119e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00014335307059809566,
+        "between_bonds_c_n_loss_mean_selected": 0.0005478810635395348,
+        "between_clashes_mean_loss_selected": 1.2412360206326412e-07,
+        "mean_plddt_selected_100": 76.55523681640625,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7655523419380188,
+        "seed": 2,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0018934549298137426,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.05289255827665329,
+        "violations_between_residue_clash_selected": 0.01818181574344635,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.86022970722804,
+      "pdb": "/content/protein_predictions/inference/seed_002/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 2
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2356061041355133,
+        "between_angles_c_n_ca_loss_mean_selected": 8.20376371848397e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00013024956570006907,
+        "between_bonds_c_n_loss_mean_selected": 0.0011001338716596365,
+        "between_clashes_mean_loss_selected": 2.2330242188672855e-07,
+        "mean_plddt_selected_100": 76.4732437133789,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7647324204444885,
+        "seed": 3,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.0033852155320346355,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.06363635510206223,
+        "violations_between_residue_clash_selected": 0.023966940119862556,
+        "violations_within_residue_selected": 0.0008264462230727077
+      },
+      "model": "predictions",
+      "openness": 24.930240413042593,
+      "pdb": "/content/protein_predictions/inference/seed_003/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 3
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23609893023967743,
+        "between_angles_c_n_ca_loss_mean_selected": 0.0001305506593780592,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00015837261162232608,
+        "between_bonds_c_n_loss_mean_selected": 0.00027254014275968075,
+        "between_clashes_mean_loss_selected": 1.4763800493255985e-07,
+        "mean_plddt_selected_100": 76.4094009399414,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7640939950942993,
+        "seed": 4,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.001929254736751318,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.03966941684484482,
+        "violations_between_residue_clash_selected": 0.01652892306447029,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.960754454460695,
+      "pdb": "/content/protein_predictions/inference/seed_004/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 4
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2362261712551117,
+        "between_angles_c_n_ca_loss_mean_selected": 9.135927939496469e-06,
+        "between_angles_ca_c_n_loss_mean_selected": 6.602350913453847e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.0005516669480130076,
+        "between_clashes_mean_loss_selected": 5.275122703096713e-07,
+        "mean_plddt_selected_100": 76.43252563476562,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7643252611160278,
+        "seed": 5,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.005514311604201794,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.04793388023972511,
+        "violations_between_residue_clash_selected": 0.027272723615169525,
+        "violations_within_residue_selected": 0.0008264462230727077
+      },
+      "model": "predictions",
+      "openness": 24.820247925464887,
+      "pdb": "/content/protein_predictions/inference/seed_005/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 5
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23622013628482819,
+        "between_angles_c_n_ca_loss_mean_selected": 3.384136289241724e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0001665311719989404,
+        "between_bonds_c_n_loss_mean_selected": 0.0007242345018312335,
+        "between_clashes_mean_loss_selected": 4.273150295830419e-07,
+        "mean_plddt_selected_100": 76.4268569946289,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7642685770988464,
+        "seed": 6,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0048872074112296104,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.05123966559767723,
+        "violations_between_residue_clash_selected": 0.03884297236800194,
+        "violations_within_residue_selected": 0.0016528924461454153
+      },
+      "model": "predictions",
+      "openness": 24.94192666830583,
+      "pdb": "/content/protein_predictions/inference/seed_006/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 6
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23688067495822906,
+        "between_angles_c_n_ca_loss_mean_selected": 0.00016509872511960566,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00017693795962259173,
+        "between_bonds_c_n_loss_mean_selected": 0.0008079363615252078,
+        "between_clashes_mean_loss_selected": 2.728006620600354e-07,
+        "mean_plddt_selected_100": 76.34872436523438,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7634872198104858,
+        "seed": 7,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.0036789127625524998,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.06942147761583328,
+        "violations_between_residue_clash_selected": 0.024793386459350586,
+        "violations_within_residue_selected": 0.0008264462230727077
+      },
+      "model": "predictions",
+      "openness": 24.98836816199061,
+      "pdb": "/content/protein_predictions/inference/seed_007/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 7
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23405873775482178,
+        "between_angles_c_n_ca_loss_mean_selected": 0.00017040267994161695,
+        "between_angles_ca_c_n_loss_mean_selected": 3.27914058289025e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.0004598911909852177,
+        "between_clashes_mean_loss_selected": 4.348841002865811e-07,
+        "mean_plddt_selected_100": 76.64104461669922,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7664104700088501,
+        "seed": 8,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.004692066926509142,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.047107432037591934,
+        "violations_between_residue_clash_selected": 0.02066115476191044,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 25.03107587940339,
+      "pdb": "/content/protein_predictions/inference/seed_008/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 8
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23817093670368195,
+        "between_angles_c_n_ca_loss_mean_selected": 1.9828676158795133e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 7.140466550481506e-06,
+        "between_bonds_c_n_loss_mean_selected": 0.0005810933071188629,
+        "between_clashes_mean_loss_selected": 1.2764763823724934e-07,
+        "mean_plddt_selected_100": 76.20081329345703,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7620081305503845,
+        "seed": 9,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0017906534485518932,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.046280987560749054,
+        "violations_between_residue_clash_selected": 0.012396693229675293,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.930449408546863,
+      "pdb": "/content/protein_predictions/inference/seed_009/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 9
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23557204008102417,
+        "between_angles_c_n_ca_loss_mean_selected": 8.139314741129056e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 5.427536598290317e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.000725767167750746,
+        "between_clashes_mean_loss_selected": 4.610849941855122e-07,
+        "mean_plddt_selected_100": 76.49414825439453,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7649414539337158,
+        "seed": 10,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.00513496482744813,
+        "tag": "EGFR",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.061157017946243286,
+        "violations_between_residue_clash_selected": 0.027272723615169525,
+        "violations_within_residue_selected": 0.0008264462230727077
+      },
+      "model": "predictions",
+      "openness": 24.986798013117614,
+      "pdb": "/content/protein_predictions/inference/seed_010/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb",
+      "seed": 10
+    }
+  ],
+  "chain_id": "A",
+  "domains": {
+    "C_lobe": [
+      [
+        793,
+        979
+      ]
+    ],
+    "N_lobe": [
+      [
+        712,
+        792
+      ]
+    ]
+  },
+  "openness_metric": {
+    "domain1": "N_lobe",
+    "domain2": "C_lobe",
+    "type": "centroid_distance"
+  },
+  "selected_closed": {
+    "model": "predictions",
+    "openness": 24.820247925464887,
+    "seed": 5,
+    "source_pdb": "/content/protein_predictions/inference/seed_005/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb"
+  },
+  "selected_open": {
+    "model": "predictions",
+    "openness": 25.03107587940339,
+    "seed": 8,
+    "source_pdb": "/content/protein_predictions/inference/seed_008/predictions/EGFR_model_1/EGFR_model_1_unrelaxed.pdb"
+  },
+  "tag": "EGFR"
+}
