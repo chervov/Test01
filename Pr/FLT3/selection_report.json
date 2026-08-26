@@ -1,0 +1,312 @@
+{
+  "candidates": [
+    {
+      "metrics": {
+        "J_selected": 0.24791602790355682,
+        "between_angles_c_n_ca_loss_mean_selected": 5.167295967112295e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0003713513142429292,
+        "between_bonds_c_n_loss_mean_selected": 0.001216556061990559,
+        "between_clashes_mean_loss_selected": 3.16758786311766e-07,
+        "mean_plddt_selected_100": 75.24958038330078,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7524958252906799,
+        "seed": 0,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.004118585493415594,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.06545820087194443,
+        "violations_between_residue_clash_selected": 0.017119836062192917,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 19.73442321373145,
+      "pdb": "/content/protein_predictions/inference/seed_000/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 0
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2426203340291977,
+        "between_angles_c_n_ca_loss_mean_selected": 0.0,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00028862382168881595,
+        "between_bonds_c_n_loss_mean_selected": 0.0007799933664500713,
+        "between_clashes_mean_loss_selected": 2.8947570740456285e-07,
+        "mean_plddt_selected_100": 75.77130889892578,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7577130794525146,
+        "seed": 1,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.0033341010566800833,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.05236655846238136,
+        "violations_between_residue_clash_selected": 0.030211476609110832,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 20.776943582114118,
+      "pdb": "/content/protein_predictions/inference/seed_001/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 1
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23721478879451752,
+        "between_angles_c_n_ca_loss_mean_selected": 8.44481292006094e-06,
+        "between_angles_ca_c_n_loss_mean_selected": 6.718095391988754e-06,
+        "between_bonds_c_n_loss_mean_selected": 0.00029512678156606853,
+        "between_clashes_mean_loss_selected": 4.753967175474827e-08,
+        "mean_plddt_selected_100": 76.28534698486328,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7628534436225891,
+        "seed": 2,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.0006823427975177765,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.021148033440113068,
+        "violations_between_residue_clash_selected": 0.02215508371591568,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 19.12998962945391,
+      "pdb": "/content/protein_predictions/inference/seed_002/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 2
+    },
+    {
+      "metrics": {
+        "J_selected": 0.24494607746601105,
+        "between_angles_c_n_ca_loss_mean_selected": 2.4160550310625695e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 7.538127829320729e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.0002494922955520451,
+        "between_clashes_mean_loss_selected": 6.158875720529977e-08,
+        "mean_plddt_selected_100": 75.51370239257812,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.755137026309967,
+        "seed": 3,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0008310377015732229,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.034239672124385834,
+        "violations_between_residue_clash_selected": 0.01812688633799553,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 19.270169218438536,
+      "pdb": "/content/protein_predictions/inference/seed_003/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 3
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23392647504806519,
+        "between_angles_c_n_ca_loss_mean_selected": 8.03094808361493e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00011499619722599164,
+        "between_bonds_c_n_loss_mean_selected": 0.0004750844673253596,
+        "between_clashes_mean_loss_selected": 6.126267493300475e-08,
+        "mean_plddt_selected_100": 76.61885070800781,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7661885023117065,
+        "seed": 4,
+        "selected_recycle_index": 6,
+        "structural_violation_loss_selected": 0.001149841700680554,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.038267869502305984,
+        "violations_between_residue_clash_selected": 0.015105738304555416,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 20.2829573744068,
+      "pdb": "/content/protein_predictions/inference/seed_004/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 4
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2379724532365799,
+        "between_angles_c_n_ca_loss_mean_selected": 0.0,
+        "between_angles_ca_c_n_loss_mean_selected": 2.8158072382211685e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.0003132479323539883,
+        "between_clashes_mean_loss_selected": 4.946017639895217e-08,
+        "mean_plddt_selected_100": 76.21003723144531,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7621003985404968,
+        "seed": 5,
+        "selected_recycle_index": 3,
+        "structural_violation_loss_selected": 0.0007284893072210252,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.024169180542230606,
+        "violations_between_residue_clash_selected": 0.014098688960075378,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 20.120755716585915,
+      "pdb": "/content/protein_predictions/inference/seed_005/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 5
+    },
+    {
+      "metrics": {
+        "J_selected": 0.239250048995018,
+        "between_angles_c_n_ca_loss_mean_selected": 4.7727728087920696e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.000214827130548656,
+        "between_bonds_c_n_loss_mean_selected": 0.0005310064880177379,
+        "between_clashes_mean_loss_selected": 2.065722242150514e-07,
+        "mean_plddt_selected_100": 76.0990982055664,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7609909772872925,
+        "seed": 6,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.002410228829830885,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.053373608738183975,
+        "violations_between_residue_clash_selected": 0.01812688633799553,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 18.682918077256314,
+      "pdb": "/content/protein_predictions/inference/seed_006/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 6
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2397482991218567,
+        "between_angles_c_n_ca_loss_mean_selected": 0.0,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00013151552411727607,
+        "between_bonds_c_n_loss_mean_selected": 0.00025552199804224074,
+        "between_clashes_mean_loss_selected": 1.7798255314005473e-08,
+        "mean_plddt_selected_100": 76.03043365478516,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.76030433177948,
+        "seed": 7,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.0005263295024633408,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.027190329506993294,
+        "violations_between_residue_clash_selected": 0.0060422951355576515,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 19.75730736388855,
+      "pdb": "/content/protein_predictions/inference/seed_007/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 7
+    },
+    {
+      "metrics": {
+        "J_selected": 0.23784199357032776,
+        "between_angles_c_n_ca_loss_mean_selected": 3.732215191121213e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0,
+        "between_bonds_c_n_loss_mean_selected": 0.00016324235184583813,
+        "between_clashes_mean_loss_selected": 6.316546574680615e-08,
+        "mean_plddt_selected_100": 76.2227783203125,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7622277736663818,
+        "seed": 8,
+        "selected_recycle_index": 6,
+        "structural_violation_loss_selected": 0.0006977200391702354,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.016112787649035454,
+        "violations_between_residue_clash_selected": 0.01812688633799553,
+        "violations_within_residue_selected": 0.0010070492280647159
+      },
+      "model": "predictions",
+      "openness": 19.247495030028066,
+      "pdb": "/content/protein_predictions/inference/seed_008/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 8
+    },
+    {
+      "metrics": {
+        "J_selected": 0.24515151977539062,
+        "between_angles_c_n_ca_loss_mean_selected": 1.1144987183797639e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.000169553401065059,
+        "between_bonds_c_n_loss_mean_selected": 0.000586227048188448,
+        "between_clashes_mean_loss_selected": 1.982624127094823e-07,
+        "mean_plddt_selected_100": 75.5080337524414,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7550803422927856,
+        "seed": 9,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.0023185587488114834,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.04431016743183136,
+        "violations_between_residue_clash_selected": 0.020140985026955605,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 18.81848749737356,
+      "pdb": "/content/protein_predictions/inference/seed_009/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 9
+    },
+    {
+      "metrics": {
+        "J_selected": 0.24196366965770721,
+        "between_angles_c_n_ca_loss_mean_selected": 4.3138559703947976e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 7.79523907112889e-05,
+        "between_bonds_c_n_loss_mean_selected": 0.00020462936663534492,
+        "between_clashes_mean_loss_selected": 9.750443297207312e-08,
+        "mean_plddt_selected_100": 75.81452178955078,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7581452131271362,
+        "seed": 10,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.0010888057295233011,
+        "tag": "FLT3",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.031218525022268295,
+        "violations_between_residue_clash_selected": 0.010070492513477802,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 19.491918986049047,
+      "pdb": "/content/protein_predictions/inference/seed_010/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb",
+      "seed": 10
+    }
+  ],
+  "chain_id": "A",
+  "domains": {
+    "C_lobe": [
+      [
+        710,
+        943
+      ]
+    ],
+    "N_lobe": [
+      [
+        610,
+        709
+      ]
+    ]
+  },
+  "openness_metric": {
+    "domain1": "N_lobe",
+    "domain2": "C_lobe",
+    "type": "centroid_distance"
+  },
+  "selected_closed": {
+    "model": "predictions",
+    "openness": 18.682918077256314,
+    "seed": 6,
+    "source_pdb": "/content/protein_predictions/inference/seed_006/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb"
+  },
+  "selected_open": {
+    "model": "predictions",
+    "openness": 20.776943582114118,
+    "seed": 1,
+    "source_pdb": "/content/protein_predictions/inference/seed_001/predictions/FLT3_model_1/FLT3_model_1_unrelaxed.pdb"
+  },
+  "tag": "FLT3"
+}
