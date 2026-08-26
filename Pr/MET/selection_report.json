@@ -1,0 +1,312 @@
+{
+  "candidates": [
+    {
+      "metrics": {
+        "J_selected": 0.2042602300643921,
+        "between_angles_c_n_ca_loss_mean_selected": 0.00013801560271531343,
+        "between_angles_ca_c_n_loss_mean_selected": 0.000550124968867749,
+        "between_bonds_c_n_loss_mean_selected": 0.002337951911613345,
+        "between_clashes_mean_loss_selected": 5.726229801439331e-08,
+        "mean_plddt_selected_100": 79.61042022705078,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7961041927337646,
+        "seed": 0,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.003644244046881795,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.04604316130280495,
+        "violations_between_residue_clash_selected": 0.011510790325701237,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 25.004041977824293,
+      "pdb": "/content/protein_predictions/inference/seed_000/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 0
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20640438795089722,
+        "between_angles_c_n_ca_loss_mean_selected": 1.98873967747204e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0018459928687661886,
+        "between_bonds_c_n_loss_mean_selected": 0.007610375992953777,
+        "between_clashes_mean_loss_selected": 4.594967037974129e-07,
+        "mean_plddt_selected_100": 79.50384521484375,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7950384616851807,
+        "seed": 1,
+        "selected_recycle_index": 2,
+        "structural_violation_loss_selected": 0.014428455382585526,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.09424459934234619,
+        "violations_between_residue_clash_selected": 0.022302156314253807,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.952482249355075,
+      "pdb": "/content/protein_predictions/inference/seed_001/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 1
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20252405107021332,
+        "between_angles_c_n_ca_loss_mean_selected": 3.668144563562237e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0007960736402310431,
+        "between_bonds_c_n_loss_mean_selected": 0.0028692458290606737,
+        "between_clashes_mean_loss_selected": 1.1465593985349187e-07,
+        "mean_plddt_selected_100": 79.79707336425781,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.797970712184906,
+        "seed": 2,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.004947613924741745,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.048201434314250946,
+        "violations_between_residue_clash_selected": 0.01582733727991581,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.819505035638084,
+      "pdb": "/content/protein_predictions/inference/seed_002/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 2
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2056277096271515,
+        "between_angles_c_n_ca_loss_mean_selected": 4.921689469483681e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0005086917080916464,
+        "between_bonds_c_n_loss_mean_selected": 0.0021223891526460648,
+        "between_clashes_mean_loss_selected": 1.445546047307289e-07,
+        "mean_plddt_selected_100": 79.47962188720703,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7947962284088135,
+        "seed": 3,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.004239397589117289,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.048201434314250946,
+        "violations_between_residue_clash_selected": 0.01294963899999857,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.74466584465702,
+      "pdb": "/content/protein_predictions/inference/seed_003/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 3
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20360900461673737,
+        "between_angles_c_n_ca_loss_mean_selected": 2.310484524059575e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0006654647295363247,
+        "between_bonds_c_n_loss_mean_selected": 0.0023549634497612715,
+        "between_clashes_mean_loss_selected": 1.300674341564445e-07,
+        "mean_plddt_selected_100": 79.68366241455078,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7968366146087646,
+        "seed": 4,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.004456163849681616,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.04100719094276428,
+        "violations_between_residue_clash_selected": 0.01294963899999857,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.80291071378095,
+      "pdb": "/content/protein_predictions/inference/seed_004/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 4
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2035118043422699,
+        "between_angles_c_n_ca_loss_mean_selected": 1.802141559892334e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0004832000413443893,
+        "between_bonds_c_n_loss_mean_selected": 0.0017854832112789154,
+        "between_clashes_mean_loss_selected": 1.8372010401890293e-07,
+        "mean_plddt_selected_100": 79.69149017333984,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7969148755073547,
+        "seed": 5,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.004266737028956413,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.032374098896980286,
+        "violations_between_residue_clash_selected": 0.013669063337147236,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.83703279335976,
+      "pdb": "/content/protein_predictions/inference/seed_005/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 5
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20225851237773895,
+        "between_angles_c_n_ca_loss_mean_selected": 5.476407386595383e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0005590335349552333,
+        "between_bonds_c_n_loss_mean_selected": 0.0018667388940230012,
+        "between_clashes_mean_loss_selected": 7.94196068909514e-08,
+        "mean_plddt_selected_100": 79.80754089355469,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7980754375457764,
+        "seed": 6,
+        "selected_recycle_index": 6,
+        "structural_violation_loss_selected": 0.003339447546750307,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.04676258563995361,
+        "violations_between_residue_clash_selected": 0.010071941651403904,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.74060896236351,
+      "pdb": "/content/protein_predictions/inference/seed_006/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 6
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20395900309085846,
+        "between_angles_c_n_ca_loss_mean_selected": 2.1787751393276267e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00047604917199350893,
+        "between_bonds_c_n_loss_mean_selected": 0.0021195109002292156,
+        "between_clashes_mean_loss_selected": 9.987918758724845e-08,
+        "mean_plddt_selected_100": 79.64103698730469,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7964103817939758,
+        "seed": 7,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.003693789942190051,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.036690644919872284,
+        "violations_between_residue_clash_selected": 0.012230214662849903,
+        "violations_within_residue_selected": 0.0
+      },
+      "model": "predictions",
+      "openness": 24.813946657888124,
+      "pdb": "/content/protein_predictions/inference/seed_007/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 7
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20112930238246918,
+        "between_angles_c_n_ca_loss_mean_selected": 3.53227042069193e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.000582543492782861,
+        "between_bonds_c_n_loss_mean_selected": 0.0016949151176959276,
+        "between_clashes_mean_loss_selected": 2.1049515908089234e-08,
+        "mean_plddt_selected_100": 79.91249084472656,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7991248965263367,
+        "seed": 8,
+        "selected_recycle_index": 5,
+        "structural_violation_loss_selected": 0.002541914815083146,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.05683452636003494,
+        "violations_between_residue_clash_selected": 0.005035970825701952,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.863882252397843,
+      "pdb": "/content/protein_predictions/inference/seed_008/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 8
+    },
+    {
+      "metrics": {
+        "J_selected": 0.2022290676832199,
+        "between_angles_c_n_ca_loss_mean_selected": 2.0796807802980766e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.00042905143345706165,
+        "between_bonds_c_n_loss_mean_selected": 0.0015080629382282495,
+        "between_clashes_mean_loss_selected": 2.1114158244017744e-07,
+        "mean_plddt_selected_100": 79.81944274902344,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.798194408416748,
+        "seed": 9,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.004234779626131058,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.044604312628507614,
+        "violations_between_residue_clash_selected": 0.014388487674295902,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.73471576887266,
+      "pdb": "/content/protein_predictions/inference/seed_009/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 9
+    },
+    {
+      "metrics": {
+        "J_selected": 0.20423531532287598,
+        "between_angles_c_n_ca_loss_mean_selected": 3.325827492517419e-05,
+        "between_angles_ca_c_n_loss_mean_selected": 0.0005390457808971405,
+        "between_bonds_c_n_loss_mean_selected": 0.0024544293992221355,
+        "between_clashes_mean_loss_selected": 2.791921929201635e-07,
+        "mean_plddt_selected_100": 79.63689422607422,
+        "model": "predictions",
+        "num_recycles": 10,
+        "plddt_norm_selected": 0.7963689565658569,
+        "seed": 10,
+        "selected_recycle_index": 4,
+        "structural_violation_loss_selected": 0.006042717024683952,
+        "tag": "MET",
+        "violation_loss_weight": 0.10000000149011612,
+        "violations_between_residue_bond_selected": 0.058273375034332275,
+        "violations_between_residue_clash_selected": 0.012230214662849903,
+        "violations_within_residue_selected": 0.0007194243953563273
+      },
+      "model": "predictions",
+      "openness": 24.716073264831298,
+      "pdb": "/content/protein_predictions/inference/seed_010/predictions/MET_model_1/MET_model_1_unrelaxed.pdb",
+      "seed": 10
+    }
+  ],
+  "chain_id": "A",
+  "domains": {
+    "C_lobe": [
+      [
+        1159,
+        1345
+      ]
+    ],
+    "N_lobe": [
+      [
+        1078,
+        1158
+      ]
+    ]
+  },
+  "openness_metric": {
+    "domain1": "N_lobe",
+    "domain2": "C_lobe",
+    "type": "centroid_distance"
+  },
+  "selected_closed": {
+    "model": "predictions",
+    "openness": 24.716073264831298,
+    "seed": 10,
+    "source_pdb": "/content/protein_predictions/inference/seed_010/predictions/MET_model_1/MET_model_1_unrelaxed.pdb"
+  },
+  "selected_open": {
+    "model": "predictions",
+    "openness": 25.004041977824293,
+    "seed": 0,
+    "source_pdb": "/content/protein_predictions/inference/seed_000/predictions/MET_model_1/MET_model_1_unrelaxed.pdb"
+  },
+  "tag": "MET"
+}
